@@ -1,0 +1,9 @@
+
+
+const Alert = () => {
+	return (
+		<>
+			alert();
+		</>
+	)
+}
